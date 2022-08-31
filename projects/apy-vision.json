@@ -1,0 +1,18 @@
+{
+  "name": "APY.vision",
+  "slug": "apy-vision",
+  "date": "2022-08-10",
+  "highlight": "Data platform for DeFi investors and protocols to track liquidity pool gains and impermanent loss to optimize returns.",
+  "logo": "/img/avalanche-bridge.png",
+  "tags": ["dashboard","defi","multi-chain","tools"],
+  "status": "live",
+  "website": "https://apy.vision/",
+  "twitter": "https://twitter.com/ApyVision",
+  "summary": "APY Vision has helped over 70,000 investors in DeFi track their profit and loss across 10+ chains and 100+ different protocols while providing their historical daily earnings in the various DeFi protocols.",
+  "telegram": "https://t.me/apyvisionofficial",
+  "discord": "https://discord.gg/ePfGAYbqUq",
+  "docs":"https://apyvision.freshdesk.com/support/solutions/folders/80000535813",
+  "token":"VISION",
+  "cmc":"https://coinmarketcap.com/currencies/apy-vision/"
+}
+  
