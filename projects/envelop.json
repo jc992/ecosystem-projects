@@ -1,0 +1,18 @@
+{
+  "name": "DAO ENVELOP",
+  "slug": "envelop",
+  "date": "2021-09-01",
+  "highlight": "DAO ENVELOP is a set of multi- and cross-chain tools in the form of Protocol, Oracle, Index which can be used to create wrap NFT 2.0 ",
+  "logo": "/img/envelop.svg",
+  "tags": ["dao","nft","defi"],
+  "status": "live",
+  "website": "https://envelop.is",
+  "twitter": "https://twitter.com/envelop_project",
+  "summary": "DAO ENVELOP was created in 2021 in order to build various tools for different Web 3.0 industries, such as DeFi, GameFi, reputation services (SBT), gifting and ticketing systems and many more, using the advanced functionality of NFT (wrap NFT, cross NFT, dynamic NFT, financial NFT, etc.). With wNFT, it is possible to create a dApp of any level of complexity.",
+  "telegram": "https://t.me/envelop_en",
+  "discord": "https://discord.com/invite/gtYcjqq76f",
+  "docs":"https://docs.envelop.is",
+  "github":"https://github.com/niftsy/niftsysmarts",
+  "token":"NIFTSY",
+  "cmc":"https://coinmarketcap.com/currencies/envelop/"
+}
